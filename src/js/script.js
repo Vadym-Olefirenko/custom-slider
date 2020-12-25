@@ -1,0 +1,3 @@
+--include('./module.js');
+
+slider();
